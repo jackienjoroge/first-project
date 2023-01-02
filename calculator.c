@@ -19,7 +19,6 @@ date:  July2022
 
 int main()
 {
-    //variable declaration
     float num1,num2,sum,difference,product,quotient;
     printf("\tCalculator!\n");
     // input
